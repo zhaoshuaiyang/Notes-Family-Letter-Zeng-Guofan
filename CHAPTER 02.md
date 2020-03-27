@@ -2,7 +2,7 @@
 
 > **苟能发奋自立，则家塾可读书，即旷野之地、热闹之场，亦可读书，负薪牧豕，皆可读书。苟不能发奋自立，则家塾不宜读书，即清净之乡、神仙之境，皆不能读书。何必择地，何必择时，但自问立志之真不真耳。**
 
-![chapter02-001](images/chapter02-001.jpg)
+<img src="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter02-001.jpg?raw=true" width = "50%" height = "50%" div align=right />
 
 评：
 
