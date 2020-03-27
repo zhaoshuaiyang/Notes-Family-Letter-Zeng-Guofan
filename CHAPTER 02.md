@@ -19,7 +19,7 @@
 
 > **屈于小试，辄发牢骚，吾窃笑其志之小而所忧之不大也。君子之立志也，有民胞物与之量，有内圣外王之业，而后不忝于父母之生，不愧为天地之完人。故其为忧也，以不如舜、不如周公为忧也，以德不修、学不讲为忧也。是故顽民梗化，则忧之；蛮夷猾夏，则忧之；小人在位、贤才否闭，则忧之；匹夫匹妇不被己泽，则忧之。所谓悲天命而悯人穷，此君子之所忧也。若夫一身之屈伸、一家之饥饱，世俗之荣辱得失、贵贱毁誉，君子固不暇忧及此也。六弟屈于小试，自称数奇，余窃笑其所忧之不大也。**
 
- <img src="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter02-002.jpg?raw=true" width = "50%" height = "50%" div align= center/>
+<div align=center><img width = '50%' height ='50%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter02-002.jpg?raw=true"/></div>
 
 评：
 
@@ -35,7 +35,7 @@
 
 > **诚意者，即其所知而力行之，是不欺也。知一句便行一句，此力行之事也。**
 
- <img src="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter02-003.jpg?raw=true" width = "50%" height = "50%" div align= center/>
+ <div align=center><img width = '50%' height ='50%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter02-003.jpg?raw=true"/></div>
 
 评：
 
@@ -53,7 +53,7 @@
 
 > **士人读书，第一要有志，第二要有识，第三要有恒。有志则断不甘为下流。有识则知学问无尽，不敢以一得自足，如河伯之观海，如井蛙之窥天，皆无识者也。有恒则断无不成之事。此三者缺一不可。诸弟此时惟有识不可以骤几，至于有志、有恒，则诸弟勉之而已。**
 
- <img src="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter002-004.jpg?raw=true" width = "50%" height = "50%" div align= center/>
+ <div align=center><img width = '50%' height ='50%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/chapter002-004.jpg?raw=true"/></div>
 
 评：
 
