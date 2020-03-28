@@ -24,7 +24,7 @@
 
 微信公众号号二维码如下所示
 
-<div align=center><img width = '50%' height ='50%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/wechat.jpg?raw=true?raw=true"/></div>
+<div align=center><img width = '20%' height ='20%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/wechat.jpg?raw=true?raw=true"/></div>
 
 是为记。
 
