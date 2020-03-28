@@ -22,9 +22,11 @@
 
 嘉言钞会每天在微博上[@熊小北同学](https://weibo.com/shuaiyangzhao?is_all=1)上发一条。每个周末的时候，会将本周写的材料整理到公众号上，方便自己存档和查询，以便将来的整理。
 
-![熊小北同学](https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/wechat.jpg?raw=true)
+微信公众号号二维码如下所示
 
+<div align=center><img width = '50%' height ='50%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/wechat.jpg?raw=true?raw=true"/></div>
 
 是为记。
+
 
 2020.03.22
