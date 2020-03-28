@@ -22,9 +22,9 @@
 
 嘉言钞会在如下的平台每天更新：
 
- - 新浪微博：[@熊小北同学](https://weibo.com/shuaiyangzhao?is_all=1)
- - 简书：[熊小北同学爱学习](https://www.jianshu.com/u/760869fa7975)、
- - 今日头条：[熊小北同学爱学习](https://www.toutiao.com/c/user/3843493285862268/#mid=1662185706205199)
+  - 新浪微博：[@熊小北同学](https://weibo.com/shuaiyangzhao?is_all=1)
+  - 简书：[熊小北同学爱学习](https://www.jianshu.com/u/760869fa7975)
+  - 今日头条：[熊小北同学爱学习](https://www.toutiao.com/c/user/3843493285862268/#mid=1662185706205199)
  
  每个周末的时候，会将本周写的材料整理到公众号上，方便自己存档和查询，以便将来的整理。
 
