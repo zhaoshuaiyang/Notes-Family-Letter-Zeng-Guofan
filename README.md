@@ -26,9 +26,7 @@
   - 简书：[熊小北同学爱学习](https://www.jianshu.com/u/760869fa7975)
   - 今日头条：[熊小北同学爱学习](https://www.toutiao.com/c/user/3843493285862268/#mid=1662185706205199)
  
- 每个周末的时候，会将本周写的材料整理到公众号上，方便自己存档和查询，以便将来的整理。
-
-微信公众号号二维码如下所示：
+ 每个周末的时候，会将本周写的材料整理到公众号上，方便自己存档和查询，以便将来的整理。微信公众号号二维码如下所示：
 
 <div align=center><img width = '20%' height ='20%' src ="https://github.com/zhaoshuaiyang/Notes-Family-Letter-Zeng-Guofan/blob/master/images/wechat.jpg?raw=true?raw=true"/></div>
 
