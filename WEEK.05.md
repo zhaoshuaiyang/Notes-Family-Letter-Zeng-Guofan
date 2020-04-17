@@ -131,6 +131,8 @@ Day 33|Week 05-5
 
 能成就一番大事情的人，都是敢于自我反思并做出改变的人。
 
+附：[曾国藩家书五箴序赏析](https://www.kekeshici.com/guji/xiaopingwen/98392.html)
+
 
 
 
